@@ -62,4 +62,4 @@ BOLD/ITALICS - Identify any documentation needs associated with the task. This m
 
 HEADER 2 - Definition of Done:
 
-BOLD/ITALICS - Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation.
+BOLD/ITALICS - Clearly define what "done" means for each task. This includes meeting coding standards, passing tests, and completing documentation
