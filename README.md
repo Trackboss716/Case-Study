@@ -1,42 +1,54 @@
 # Case-Study
-HEADER 1 Project Title
+# H1 Team Member Eric Changes
 
-BLOCKQUOTE A short description about the project and/or client.
+> BLOCKQUOTE Eric created a new branch called develop along with two files on git then pushed it to repository 
 
-HEADER 2 Getting Started
+## 2 Getting Started
 
 PARAGRAPH These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-HEADER 3 Prerequisites
+### 3 Prerequisites
 
 PARAGRAPH The things you need before installing the software.
 
-BULLET POINT You need this
-BULLET POINT And you need this
-BULLET POINT Oh, and don't forget this
+BULLET POINT You need to have git bash
+BULLET POINT And you need github
+BULLET POINT you will also need VScode
 
-HEADER 3 Installation
+### 3 Installation
 
-PARAGRAPH A step by step guide that will tell you how to get the development environment up and running.
+First you need to open git and create a new branch with this command git checkout -b feature-a
 
+Then Create 2 new files named  welcome.js and getName.js with the code I've added
+
+Add your changed files to your local repo by running the following command:
+git add welcome.js getName.js
+
+Then put the command git commit -m “([Your Name]) Feature-A: Show a greeting message to user and ask for their name"
+Then git push
 ```
-$ First step
-$ Another step
-$ Final step
+$ First step:First you need to open git and create a new branch with this command git checkout -b feature-a
+
+Then Create 2 new files named  welcome.js and getName.js with the code I've added
+
+$ Another step: Add your changed files to your local repo by running the following command:
+git add welcome.js getName.js
+
+$ Final step:Then put the command git commit -m “([Your Name]) Feature-A: Show a greeting message to user and ask for their name"
+Then git push
 ```
 
-HEADER 2 Usage
+## Usage
 
 A few examples of useful commands and/or tasks.
 
 ```
-$ First example
-$ Second example
-$ And keep this in mind
+$ First example git commit
+$ Second example git checkout -b 
+$ And keep in mind to always git add before git comit
 ```
-HEADER 3 Branches
+### Branches
 
 * Main:
-* Feature:
-* Bugfix:
-* etc...
+* Feature-A:
+* Develop:
